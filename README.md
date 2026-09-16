@@ -1,0 +1,1 @@
+# Test hostinger DNS configuration
